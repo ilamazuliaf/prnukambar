@@ -53,4 +53,4 @@
 | Abd. Wahed     | Rp. 100.000             |       |
 | Abd. Sa'id     | Rp. 50.000              |       |
 | Ittiba'ah      | Rp. 100.000             |       |
-| Akh. Zainuddin | Rp. 600.000             |       |
+| Akh. Zainuddin | Rp. 600.000             | Sudah |
