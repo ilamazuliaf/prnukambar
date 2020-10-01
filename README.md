@@ -11,10 +11,10 @@
 | Ach. Fauzi             | Katib       |
 | Surahwi                | Wakil Katib |
 | Sukandar               | Wakil Katib |
-| K. Murahyak Salim      | A'wam       |
-| KH. Marzuki            | A'wam       |
-| Akh. Zainuddin, SE.MM. | A'Wam       |
-| H. Fauzen              | A'wam       |
+| K. Murahyak Salim      | A'wan       |
+| KH. Marzuki            | A'wan       |
+| Akh. Zainuddin, SE.MM. | A'Wan       |
+| H. Fauzen              | A'wan       |
 
 ### TANFIDZIYAH
 | NAMA                   | JABATAN          |
@@ -54,3 +54,5 @@
 | Abd. Sa'id     | Rp. 50.000              |       |
 | Ittiba'ah      | Rp. 100.000             |       |
 | Akh. Zainuddin | Rp. 600.000             | Sudah |
+| Abd. Hamid     | Rp. 50.0000             | Sudah |
+| Surahwi        | Rp. 50.000              | Sudah |
