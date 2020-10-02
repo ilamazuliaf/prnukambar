@@ -42,17 +42,39 @@
 | Abd. Wahed Rahem      | Lembaga Pendidikan Ma'arif (LP MA'ARIF NU)          |
 
 ## Transparasi Keuangan Pengurus Ranting NU Desa Kambingan Barat
-| NAMA DONATUR   | NOMINAL/JENIS SUMBANGAN | KET   |
-|----------------|-------------------------|-------|
-| Ust. Ahmadun   | Rp. 200.000             | Sudah |
-| Kholikurrahman | Air 4 Dus               |       |
-| Ainul Yakin    | Kacang Sangar           |       |
-| Faizul Amali   | Rp. 100.000             | Sudah |
-| Hosriyanto     | Konsumsi Al-Banjari     |       |
-| Mahmudi        | Konsumsi Al-Banjari     |       |
-| Abd. Wahed     | Rp. 100.000             |       |
-| Abd. Sa'id     | Rp. 50.000              |       |
-| Ittiba'ah      | Rp. 100.000             |       |
-| Akh. Zainuddin | Rp. 600.000             | Sudah |
-| Abd. Hamid     | Rp. 50.0000             | Sudah |
-| Surahwi        | Rp. 50.000              | Sudah |
+| NO | NAMA DONATUR          | SUMBANGAN           | KET   |
+|----|-----------------------|---------------------|-------|
+| 1  | U. Ahmadun            | Rp. 200.000         | Sudah |
+| 2  | Kholik Hana           | Air 4 Dus           | -     |
+| 3  | Faizul Amali          | Rp. 100.000         | Sudah |
+| 4  | Ainul Yakin           | Kacang Sangar       | -     |
+| 5  | Hosriyanto            | Konsumsi Al-Banjari | -     |
+| 6  | Mahmudi               | Konsumsi Al-Banjari | -     |
+| 7  | Wahed                 | Rp. 100.000         | Sudah |
+| 8  | Abd. Said             | Rp. 50.000          | -     |
+| 9  | Ittiba'ah             | Rp. 100.000         | Sudah |
+| 10 | Akh. Zainuddin, SE.MM | Rp. 600.000         | Sudah |
+| 11 | Abd. Hamid            | Rp. 150.000         | Sudah |
+| 12 | Surahwi               | Rp. 50.000          | Sudah |
+| 13 | Muniham               | Rp. 50.000          | Sudah |
+| 14 | Misnal                | Rp. 50.000          | Sudah |
+| 15 | Jauhari               | Rp. 50.000          | Sudah |
+| 16 | Lutfiyah              | Rp. 50.000          | Sudah |
+| 17 | Slamet Bantengan      | Rp. 50.000          | Sudah |
+| 18 | Wafiq                 | Rp. 50.000          | Sudah |
+| 19 | Hozaimah              | Rp. 50.000          | Sudah |
+| 20 | Aspat                 | Rp. 50.000          | Sudah |
+| 21 | Ib Hariyanto          | Rp. 50.000          | Sudah |
+| 22 | Diah Ayu Safitri      | Rp. 50.000          | Sudah |
+| 23 | Uut                   | Rp. 50.000          | Sudah |
+| 24 | Munasik               | Rp. 50.000          | Sudah |
+| 25 | Syawiruddin           | Rp. 50.000          | Sudah |
+| 26 | Moh. Usman            | Rp. 50.000          | Sudah |
+| 27 | Fathol Bari           | Rp. 50.000          | Sudah |
+| 28 | Mahfud                | Rp. 300.000         | -     |
+
+
+| TANGGAL            | PENERIMA  | JUMLAH SETORAN |
+|--------------------|-----------|----------------|
+| Kamis, 01-10-2020  | MATO      | Rp. 900.000    |
+| Jum'at, 02-10-2020 | Komariyah | Rp. 1.150.000  |
