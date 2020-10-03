@@ -45,7 +45,7 @@
 | NO | NAMA DONATUR          | SUMBANGAN           | KET   |
 |----|-----------------------|---------------------|-------|
 | 1  | U. Ahmadun            | Rp. 200.000         | Sudah |
-| 2  | Kholik Hana           | Air 4 Dus           | -     |
+| 2  | Kholik Hana           | Air 4 Dus           | Sudah |
 | 3  | Faizul Amali          | Rp. 100.000         | Sudah |
 | 4  | Ainul Yakin           | Kacang Sangar       | -     |
 | 5  | Hosriyanto            | Konsumsi Al-Banjari | -     |
@@ -71,10 +71,15 @@
 | 25 | Syawiruddin           | Rp. 50.000          | Sudah |
 | 26 | Moh. Usman            | Rp. 50.000          | Sudah |
 | 27 | Fathol Bari           | Rp. 50.000          | Sudah |
-| 28 | Mahfud                | Rp. 300.000         | -     |
+| 28 | Mahfud                | Rp. 300.000         | Sudah |
+| 29 | Wahed Sulawesi        | Rp. 50.000          | Sudah |
+| 30 | Faridah               | Beras               | -     |
+| 31 | Aminah                | Beras               | -     |
 
 
-| TANGGAL            | PENERIMA  | JUMLAH SETORAN |
-|--------------------|-----------|----------------|
-| Kamis, 01-10-2020  | MATO      | Rp. 900.000    |
-| Jum'at, 02-10-2020 | Komariyah | Rp. 1.150.000  |
+## Laporan Keuangan
+| TANGGAL            | URAIAN            | DEBIT         | KREDIT | SALDO         |
+|--------------------|-------------------|---------------|--------|---------------|
+| Kamis, 01-10-2020  | Setor (Mato)      | Rp. 900.000   |        | Rp. 900.000   |
+| Jum'at, 02-10-2020 | Setor (Komariyah) | Rp. 1.150.000 |        | Rp. 2.050.000 |
+| Sabtu, 03-10-2020  | Seotr (Komariyah) | Rp. 50.000    |        | Rp. 2.100.000 |
