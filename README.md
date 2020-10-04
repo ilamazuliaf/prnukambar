@@ -47,7 +47,7 @@
 | 1  | U. Ahmadun            | Rp. 200.000         | Sudah |
 | 2  | Kholik Hana           | Air 4 Dus           | Sudah |
 | 3  | Faizul Amali          | Rp. 100.000         | Sudah |
-| 4  | Ainul Yakin           | Kacang Sangar       | -     |
+| 4  | Ainul Yakin           | Kacang Sangar       | Sudah |
 | 5  | Hosriyanto            | Konsumsi Al-Banjari | -     |
 | 6  | Mahmudi               | Konsumsi Al-Banjari | -     |
 | 7  | Wahed                 | Rp. 100.000         | Sudah |
@@ -73,13 +73,19 @@
 | 27 | Fathol Bari           | Rp. 50.000          | Sudah |
 | 28 | Mahfud                | Rp. 300.000         | Sudah |
 | 29 | Wahed Sulawesi        | Rp. 50.000          | Sudah |
-| 30 | Faridah               | Beras               | -     |
-| 31 | Aminah                | Beras               | -     |
+| 30 | Faridah               | Rp. 28.000          | Sudah |
+| 31 | Aminah                | Rp. 28.000          | Sudah |
+| 32 | Surahwi Tohir         | Rp. 50.000          | Sudah |
+| 33 | Komariyah             | Beras 8 Gentang     | Sudah |
 
 
 ## Laporan Keuangan
-| TANGGAL            | URAIAN            | DEBIT         | KREDIT | SALDO         |
-|--------------------|-------------------|---------------|--------|---------------|
-| Kamis, 01-10-2020  | Setor (Mato)      | Rp. 900.000   |        | Rp. 900.000   |
-| Jum'at, 02-10-2020 | Setor (Komariyah) | Rp. 1.150.000 |        | Rp. 2.050.000 |
-| Sabtu, 03-10-2020  | Seotr (Komariyah) | Rp. 50.000    |        | Rp. 2.100.000 |
+| TANGGAL            | URAIAN               | DEBIT         | KREDIT      | SALDO         |
+|--------------------|----------------------|---------------|-------------|---------------|
+| Kamis, 01-10-2020  | Setor (Mato)         | Rp. 900.000   |             | Rp. 900.000   |
+| Jum'at, 02-10-2020 | Setor (Komariyah)    | Rp. 1.150.000 |             | Rp. 2.050.000 |
+| Sabtu, 03-10-2020  | Setor (Komariyah)    | Rp. 50.000    |             | Rp. 2.100.000 |
+| Minggu, 04-10-2020 | Setor (Komariyah)    | Rp. 300.000   |             | Rp. 2.400.000 |
+| Minggu, 04-10-2020 | Kas MWC Lenteng      | Rp. 200.000   |             | Rp. 2.600.000 |
+| Minggu, 04-10-2020 | Sumbangan Kantor MWC |               | Rp. 200.000 | Rp. 2.400.000 |
+| Minggu, 04-10-2020 | Surahwi Tohir        | Rp. 50.000    |             | Rp. 2.450.000 |
