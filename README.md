@@ -77,15 +77,19 @@
 | 31 | Aminah                | Rp. 28.000          | Sudah |
 | 32 | Surahwi Tohir         | Rp. 50.000          | Sudah |
 | 33 | Komariyah             | Beras 8 Gentang     | Sudah |
+| 34 | Trisno                | Rp. 200.000         | Sudah |
 
 
 ## Laporan Keuangan
-| TANGGAL            | URAIAN               | DEBIT         | KREDIT      | SALDO         |
-|--------------------|----------------------|---------------|-------------|---------------|
-| Kamis, 01-10-2020  | Setor (Mato)         | Rp. 900.000   |             | Rp. 900.000   |
-| Jum'at, 02-10-2020 | Setor (Komariyah)    | Rp. 1.150.000 |             | Rp. 2.050.000 |
-| Sabtu, 03-10-2020  | Setor (Komariyah)    | Rp. 50.000    |             | Rp. 2.100.000 |
-| Minggu, 04-10-2020 | Setor (Komariyah)    | Rp. 300.000   |             | Rp. 2.400.000 |
-| Minggu, 04-10-2020 | Kas MWC Lenteng      | Rp. 200.000   |             | Rp. 2.600.000 |
-| Minggu, 04-10-2020 | Sumbangan Kantor MWC |               | Rp. 200.000 | Rp. 2.400.000 |
-| Minggu, 04-10-2020 | Surahwi Tohir        | Rp. 50.000    |             | Rp. 2.450.000 |
+| TANGGAL            | URAIAN               | DEBIT         | KREDIT        | SALDO         |
+|--------------------|----------------------|---------------|---------------|---------------|
+| Kamis, 01-10-2020  | Setor (Mato)         | Rp. 900.000   |               | Rp. 900.000   |
+| Jum'at, 02-10-2020 | Setor (Komariyah)    | Rp. 1.150.000 |               | Rp. 2.050.000 |
+| Sabtu, 03-10-2020  | Setor (Komariyah)    | Rp. 50.000    |               | Rp. 2.100.000 |
+| Sabtu, 03-10-2020  | Belanja Bahan Dapur  |               | Rp. 1.100.000 | Rp. 1.000.000 |
+| Minggu, 04-10-2020 | Setor (Komariyah)    | Rp. 300.000   |               | Rp. 1.300.000 |
+| Minggu, 04-10-2020 | Kas MWC Lenteng      | Rp. 200.000   |               | Rp. 1.500.000 |
+| Minggu, 04-10-2020 | Sumbangan Kantor MWC |               | Rp. 200.000   | Rp. 1.300.000 |
+| Minggu, 04-10-2020 | Surahwi Tohir        | Rp. 50.000    |               | Rp. 1.350.000 |
+| Minggu, 04-10-2020 | Sumbangan Trisno     | Rp. 200.000   |               | Rp. 1.550.000 |
+| Minggu, 04-10-2020 | Belanja Hari H       |               | Rp. 388.000   | Rp. 1.162.000 |
