@@ -93,3 +93,5 @@
 | Minggu, 04-10-2020 | Surahwi Tohir        | Rp. 50.000    |               | Rp. 1.350.000 |
 | Minggu, 04-10-2020 | Sumbangan Trisno     | Rp. 200.000   |               | Rp. 1.550.000 |
 | Minggu, 04-10-2020 | Belanja Hari H       |               | Rp. 388.000   | Rp. 1.162.000 |
+| Senin, 05-10-2020  | Setor (Komariyah)    | Rp. 56.000    |               | Rp. 1.218.000 |
+| Kamis, 08-10-2020  | Setor (Trisno)       | Rp. 28.000    |               | Rp. 1.246.000 |
